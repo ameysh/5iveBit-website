@@ -1,7 +1,7 @@
 
 # 5iveBit (Planspiel Company)
 
-This GitHub repository hosts the website of 5iveBit. This is a part of our TU Chemnitz University's MSc Web Engineering Planspiel module and not a real company.
+This GitHub repository hosts the website of 5iveBit. This is a part of our TU Chemnitz MSc Web Engineering Planspiel module and not a real company.
 
 # Collaborators:
 
